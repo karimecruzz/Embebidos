@@ -1,7 +1,7 @@
 # Proyecto Final SmartHome
 
 ## Content
-This proyect has a lot of HTML and JavaScrpt files that will be executed from a general python file 
+This project contains a smart house with HTML and JavaScrpt files that will be run from a general python file
 
 ## Demo
 If you want to see the demo of this proyect you can visit ()
