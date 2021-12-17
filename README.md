@@ -8,10 +8,10 @@ If you want to see the demo of this proyect you can visit ()
 
 ## Install
 To install and run this proyect just type and execute
-###pip install Flask
-###pip install numpy
-###pip install cv2
-###python prueba.py
+*pip install Flask
+*pip install numpy
+*pip install cv2
+*python prueba.py
 
 ## Preview
 ![](/vista.jpg)
